@@ -1,0 +1,6 @@
+.tmp/
+node_modules/
+reports/
+package-lock.json
+*.xml
+*.html

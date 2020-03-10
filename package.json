@@ -1,0 +1,22 @@
+{
+    "name": "jsautomationproject",
+    "version": "1.0.0",
+    "description": "first automation project with JS",
+    "main": "index.js",
+    "scripts": {
+        "test": "npm run test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mugar97/firstJSTestFW.git"
+    },
+    "author": "mugar97",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/mugar97/firstJSTestFW/issues"
+    },
+    "homepage": "https://github.com/mugar97/firstJSTestFW#readme",
+    "dependencies": {
+        "@types/jest": "^25.1.4"
+    }
+}

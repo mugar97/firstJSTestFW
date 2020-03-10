@@ -1,0 +1,28 @@
+{
+    "name": "apitestwithjest",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@babel/preset-typescript": "^7.6.0",
+        "@types/jest": "^25.1.4",
+        "@types/mocha": "^7.0.2",
+        "jest": "^25.1.0",
+        "node-fetch": "^2.6.0"
+    },
+    "devDependencies": {
+        "@babel/cli": "^7.8.4",
+        "@babel/core": "^7.8.7",
+        "@babel/preset-env": "^7.8.7",
+        "@types/node-fetch": "^2.5.5",
+        "babel-cli": "^6.26.0",
+        "babel-core": "^6.26.3",
+        "babel-preset-env": "^1.7.0",
+        "babel-preset-latest": "^6.24.1"
+    }
+}
