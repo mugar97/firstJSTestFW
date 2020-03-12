@@ -1,2 +1,4 @@
 # JavaScript testing framework
-Testing with _Trello_ app
+Testing with _Trello_ app.
+## Sections needed
+We need to fill this
